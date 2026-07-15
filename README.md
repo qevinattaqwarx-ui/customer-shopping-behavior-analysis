@@ -164,7 +164,12 @@ An interactive dashboard was developed in Power BI to visualize customer behavio
 
 ### Dashboard Preview
 
-> Add dashboard screenshots here after uploading the project.
+> ## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
+
+Interactive Power BI dashboard displaying customer demographics, purchasing behavior, revenue trends, and key performance indicators.
+
 
 ---
 
