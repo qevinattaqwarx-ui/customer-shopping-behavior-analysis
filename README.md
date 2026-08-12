@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes customer shopping behavior data to uncover purchasing patterns, customer preferences, spending trends, and actionable business insights. Using Python, MySQL, and Power BI, the project transforms raw customer transaction data into meaningful information that supports data-driven business decisions.
 
@@ -8,7 +8,7 @@ The analysis follows an end-to-end analytics workflow, including data cleaning, 
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Retail businesses generate large amounts of customer transaction data but often struggle to convert that information into actionable insights.
 
@@ -22,7 +22,7 @@ This project aims to answer key business questions such as:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze customer purchasing behavior and spending patterns.
 - Identify high-value customer segments.
@@ -33,7 +33,7 @@ This project aims to answer key business questions such as:
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset contains customer shopping behavior information, including demographic characteristics, purchasing activity, and transaction details.
 
@@ -54,7 +54,7 @@ The dataset contains customer shopping behavior information, including demograph
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |--------|---------|
@@ -68,7 +68,7 @@ The dataset contains customer shopping behavior information, including demograph
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Excel/CSV Dataset
@@ -94,7 +94,7 @@ Executive Presentation (Gamma)
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 Data preparation was performed using Python (Pandas) to improve data quality and ensure reliable analysis.
 
@@ -109,7 +109,7 @@ Data preparation was performed using Python (Pandas) to improve data quality and
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Exploratory analysis was conducted to better understand customer purchasing behavior and identify trends within the dataset.
 
@@ -124,7 +124,7 @@ Exploratory analysis was conducted to better understand customer purchasing beha
 
 ---
 
-## 🗄️ SQL Business Analysis
+## SQL Business Analysis
 
 MySQL was used to answer key business questions and generate business insights.
 
@@ -147,7 +147,7 @@ MySQL was used to answer key business questions and generate business insights.
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 An interactive dashboard was developed in Power BI to visualize customer behavior and business performance.
 
@@ -164,7 +164,7 @@ An interactive dashboard was developed in Power BI to visualize customer behavio
 
 ### Dashboard Preview
 
-> ## 📊 Dashboard Preview
+> ## Dashboard Preview
 
 ![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
 
@@ -173,7 +173,7 @@ Interactive Power BI dashboard displaying customer demographics, purchasing beha
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 - Certain product categories contribute significantly more revenue than others.
 - Customer demographics influence purchasing behavior and spending levels.
@@ -183,7 +183,7 @@ Interactive Power BI dashboard displaying customer demographics, purchasing beha
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 1. Develop targeted campaigns for high-value customer segments.
 2. Increase marketing efforts around top-performing product categories.
@@ -193,7 +193,7 @@ Interactive Power BI dashboard displaying customer demographics, purchasing beha
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 customer-shopping-behavior-analysis
@@ -219,7 +219,7 @@ customer-shopping-behavior-analysis
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone Repository
 
